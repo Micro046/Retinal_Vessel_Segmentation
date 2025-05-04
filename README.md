@@ -21,7 +21,7 @@ Diabetic retinopathy is a leading cause of blindness, and early detection is vit
 
 ## 🗂 Dataset
 
-* **Dataset Used**: [DRIVE](https://drive.grand-challenge.org/)
+* **Dataset Used**: [DRIVE]
 * **Images**: 40 retinal fundus images (565×584 resolution)
 * **Split**: 20 training and 20 testing images
 * **Preprocessing**: Data augmentation using Horizontal/Vertical flips, Elastic/Optical transformations, and Dropout.
@@ -55,7 +55,7 @@ The image below shows the comparison of segmentation outputs:
 
 * **Left**: Ground Truth
 * **Center**: UNET Result
-* **Right**: Our Method
+* **Right**: Our Method Result
 
 As seen, our method captures significantly more thin vessels, especially those missed by the standard UNET approach.
 
