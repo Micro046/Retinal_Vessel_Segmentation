@@ -84,7 +84,7 @@ We present a segmentation framework that significantly enhances the detection of
 
 ## 📚 References
 
-A comprehensive list of academic references is provided in the full paper. Key works include UNET, LadderNet, DenseNet, and various deep learning segmentation techniques.
+A comprehensive list of academic references is provided in the full paper.
 
 ---
 
