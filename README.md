@@ -3,7 +3,7 @@
 
 ## 📄 Abstract
 
-Diabetic retinopathy is a leading cause of blindness, and early detection is vital to prevent vision loss. This project proposes an improved deep learning framework for segmenting thick and thin retinal blood vessels using **UNET**. The architecture segments thin and thick vessels separately and fuses the outputs for a more accurate binary segmentation map.
+This project proposes an improved deep learning framework for segmenting thick and thin retinal blood vessels using **UNET**. The architecture segments thin and thick vessels separately and fuses the outputs for a more accurate binary segmentation map.
 
 🔗 **Read the full paper here:** [Improved Retinal Vessel Segmentation using UNET (PDF)](https://drive.google.com/file/d/1nLBaWSpJE8SqIQvaecUt61AaZQV6VG7k/view?usp=drive_link)
 
