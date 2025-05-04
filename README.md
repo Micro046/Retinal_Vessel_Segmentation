@@ -1,10 +1,11 @@
+---
+
 # Improved Retinal Vessel Segmentation using UNET
 
 **Authors**
 Hassan Iftikhar
 Electrical Engineering Department, Namal University, Mianwali, Pakistan
 Email: [hassni2018@namal.edu.pk](mailto:hassni2018@namal.edu.pk)
-
 
 Sawaira Pervaiz
 Electrical Engineering Department, Namal University, Mianwali, Pakistan
@@ -64,6 +65,10 @@ Diabetic retinopathy is a leading cause of blindness, and early detection is vit
 * Our model performs better in **segmenting thin vessels**, which are typically missed or partially detected by traditional UNET and other methods.
 * Outperforms baselines in sensitivity and maintains high accuracy even in low-contrast images.
 
+### 🔍 Final Segmentation Result
+
+![Final Result](https://github.com/Micro046/Retinal_Vessel_Segmentation/raw/main/final_result.png)
+
 ---
 
 ## 🧪 Experimental Setup
@@ -94,3 +99,5 @@ A comprehensive list of academic references is provided in the full paper. Key w
 ## 📎 Link to Paper
 
 👉 [Download Full PDF](https://drive.google.com/file/d/1nLBaWSpJE8SqIQvaecUt61AaZQV6VG7k/view?usp=drive_link)
+
+---
