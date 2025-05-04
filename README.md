@@ -1,4 +1,3 @@
----
 
 # Improved Retinal Vessel Segmentation using UNET
 
@@ -51,6 +50,14 @@ Diabetic retinopathy is a leading cause of blindness, and early detection is vit
 * Outperforms baselines in sensitivity and maintains high accuracy even in low-contrast images.
 
 ### 🔍 Final Segmentation Result
+
+The image below shows the comparison of segmentation outputs:
+
+* **Left**: Ground Truth
+* **Center**: UNET Result
+* **Right**: Our Method
+
+As seen, our method captures significantly more thin vessels, especially those missed by the standard UNET approach.
 
 ![Final Result](https://github.com/Micro046/Retinal_Vessel_Segmentation/raw/main/final_result.png)
 
