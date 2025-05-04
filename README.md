@@ -1,7 +1,3 @@
-Here's your updated `README.md` file with **specificity** removed from the metrics and comparison table:
-
----
-
 # Improved Retinal Vessel Segmentation using UNET
 
 **Authors**
@@ -9,9 +5,6 @@ Hassan Iftikhar
 Electrical Engineering Department, Namal University, Mianwali, Pakistan
 Email: [hassni2018@namal.edu.pk](mailto:hassni2018@namal.edu.pk)
 
-M. Sheraz Anjum
-Computer Science Department, Namal University, Mianwali, Pakistan
-Email: [sheraz.anjum@namal.edu.pk](mailto:sheraz.anjum@namal.edu.pk)
 
 Sawaira Pervaiz
 Electrical Engineering Department, Namal University, Mianwali, Pakistan
@@ -101,7 +94,3 @@ A comprehensive list of academic references is provided in the full paper. Key w
 ## 📎 Link to Paper
 
 👉 [Download Full PDF](https://drive.google.com/file/d/1nLBaWSpJE8SqIQvaecUt61AaZQV6VG7k/view?usp=drive_link)
-
----
-
-Let me know if you'd like this converted into a PDF, HTML, or embedded into a GitHub repository!
